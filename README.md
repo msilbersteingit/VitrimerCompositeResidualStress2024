@@ -3,11 +3,10 @@ Code with thermally triggered vitrimer residual stress composite paper submitted
 
 
 
-Cube simulation.inp
-** This input file simulates the behavior of a cube for 0% catalyst vitrimer (for 5% catalyst vitrimer, adjust the parameters accordingly).
+Cube simulation.inp - This input file simulates the behavior of a cube for 0% catalyst vitrimer (for 5% catalyst vitrimer, adjust the parameters accordingly).
 
-Purevitrimer-TMA.inp
-** This input file is used to simulate the TMA experiment for 0% catalyst vitrimer (for 5% catalyst vitrimer, adjust the parameters accordingly). 
+Purevitrimer-TMA.inp - This input file is used to simulate the TMA experiment for 0% catalyst vitrimer (for 5% catalyst vitrimer, adjust the parameters accordingly). 
 
-Polymer matrix fiber simulation.inp
-** This input file is used to simulate the TMA experiment for 0% catalyst vitrimer (for 5% catalyst vitrimer, adjust the parameters accordingly). 
+Polymer matrix fiber simulation.inp - This input file is used to simulate the TMA experiment for 0% catalyst vitrimer (for 5% catalyst vitrimer, adjust the parameters accordingly). 
+
+umat_vitrimer.f - user subroutine file.
